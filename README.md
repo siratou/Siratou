@@ -4,13 +4,9 @@
 ### 🌍 Ingénieure en Géomaticien spécialiste Télédétection, GEOAI enthousiast, GIS Analyste et webmapping
 
 <p align="center">
-<img src="https://images.unsplash.com/photo-1446776811953-b23d57bd21aa?auto=format&fit=crop&w=1600&q=85" width="30%" alt="La Terre vue depuis l'espace" />
-</p>
-
-<p align="center">
 <b>Transformer les données satellitaires en renseignements géospatiaux exploitables.</b>
 <br/>
-🌍 Basée au Sénégal · 🇸🇳 Création de solutions géospatiales pour l'Afrique
+🌍 Basée au Sénégal · Création de solutions géospatiales pour l'Afrique
 </p>
 
 <p align="center">
