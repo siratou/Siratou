@@ -4,7 +4,7 @@
 ### 🌍 Ingénieure en géomatique | Télédétection | Développeur en intelligence artificielle géospatiale (GeoAI)
 
 <p align="center">
-<img src="https://images.unsplash.com/photo-1446776811953-b23d57bd21aa?auto=format&fit=crop&w=1600&q=85" width="100%" alt="La Terre vue depuis l'espace" />
+<img src="https://images.unsplash.com/photo-1446776811953-b23d57bd21aa?auto=format&fit=crop&w=1600&q=85" width="25%" alt="La Terre vue depuis l'espace" />
 </p>
 
 <p align="center">
@@ -14,13 +14,13 @@
 </p>
 
 <p align="center">
-<a href="https://github.com/YOUR_USERNAME">
+<a href="https://github.com/siratou">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
-<a href="https://www.linkedin.com/in/YOUR_LINKEDIN/">
+<a href="https:/www.linkedin.com/in/sirakatou-coly/">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
-<a href="mailto:YOUR_EMAIL">
+<a href="mailto:sirakatou07@gmail.com">
 <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail"/>
 </a>
 </p>
