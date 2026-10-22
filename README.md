@@ -1,7 +1,7 @@
 
 # 👋 Bonjour, Sirakatou Coly
 
-### 🌍 Ingénieure en Géomaticien spécialiste Télédétection, GEOAI enthousiast, GIS Analyste et webmapping
+### 🌍 Ingénieure Géomaticien, spécialiste Télédétection, GEOAI enthousiast, GIS Analyste
 
 <p align="center">
 <b>Transformer les données satellitaires en renseignements géospatiaux exploitables.</b>
@@ -27,7 +27,8 @@
 
 Spécialiste en géomatique, passionnée par la **télédétection, la science des données géospatiales et l'intelligence artificielle**.
 
-Mon travail consiste à transformer les images satellitaire et les données spatiales en solutions concrètes pour l'agriculture, le suivi du changement climatique, la gestion de l'environnement et le développement durable. Je m'intéresse tout particulièrement au développement d'outils de GeoAI accessibles et à la contribution au essor des technologies géospatiales au Sénégal et à travers l'Afrique. - 🌱 Exploration à la croisée de la **GeoAI (intelligence artificielle géospatiale), de l'imagerie satellitaire et de l'apprentissage automatique**
+Mon travail consiste à transformer les images satellitaire et les données spatiales en solutions concrètes pour l'agriculture, le suivi du changement climatique, la gestion de l'environnement et le développement durable. Je m'intéresse tout particulièrement au développement d'outils de GeoAI accessibles et à la contribution au essor des technologies géospatiales au Sénégal et à travers l'Afrique. 
+
 - 🌾 Travaux sur le suivi agricole et l'analyse de la végétation
 - 🛰️ Traitement d'imagerie satellitaire Sentinel-1 et Sentinel-2
 - 💻 Développement d'applications géospatiales avec Python et Google Earth Engine
