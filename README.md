@@ -1,10 +1,10 @@
 
-# 👋 Bonjour, je suis Sirakatou Coly
+# 👋 Bonjour, Sirakatou Coly
 
-### 🌍 Ingénieure en géomatique | Télédétection | Développeur en intelligence artificielle géospatiale (GeoAI)
+### 🌍 Ingénieure en Géomaticien spécialiste Télédétection, GEOAI enthousiast, GIS Analyste et webmapping
 
 <p align="center">
-<img src="https://images.unsplash.com/photo-1446776811953-b23d57bd21aa?auto=format&fit=crop&w=1600&q=85" width="25%" alt="La Terre vue depuis l'espace" />
+<img src="https://images.unsplash.com/photo-1446776811953-b23d57bd21aa?auto=format&fit=crop&w=1600&q=85" width="30%" alt="La Terre vue depuis l'espace" />
 </p>
 
 <p align="center">
